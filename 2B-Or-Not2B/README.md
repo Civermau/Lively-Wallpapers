@@ -33,6 +33,10 @@ Again, like, it's a very simple wallpaper, if you have a screen and some ram, yo
 2. In Lively, click "Add Wallpaper" (The '+' button)
 3. Drag and drop the folder or select it in the file explorer to install
 
+<div align="center">
+<img src="Images/InstallationGuide.gif" width="400" alt="Installation Guide">
+</div>
+
 ### 🔧 Configuration
 It also have a couple customization options, but, I mean, there is not that much you'd like to customize in this one... right?
 
