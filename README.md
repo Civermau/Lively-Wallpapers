@@ -49,6 +49,7 @@ So yeah, feel free to check them out, fork them and learn from them to make your
 
 **Features:**
 - 📅 Live date and time display
+
 I mean, that's it, this is not a useful wallpaper, it's a funny cute one
 
 **[📁 View Details & Download](./2B-Or-Not2B/)**
