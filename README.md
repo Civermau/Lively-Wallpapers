@@ -40,6 +40,19 @@ So yeah, feel free to check them out, fork them and learn from them to make your
 
 **[📁 View Details & Download](./Json-System-Display/)**
 
+### 🎭 2B-Or-Not2B
+*Minimalist programming-inspired wallpaper featuring a clever twist on Shakespeare's famous quote*
+
+<div align="center">
+<img src="2B-Or-Not2B/src/lively_p.gif" width="600" alt="2B-Or-Not2B Preview">
+</div>
+
+**Features:**
+- 📅 Live date and time display
+I mean, that's it, this is not a useful wallpaper, it's a funny cute one
+
+**[📁 View Details & Download](./2B-Or-Not2B/)**
+
 ---
 
 ## 🚀 Quick Start
